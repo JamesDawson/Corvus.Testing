@@ -1,0 +1,130 @@
+{
+  "Projects": [
+    {
+      "Name": "Corvus.Testing.AzureFunctions.Xunit.Demo",
+      "FilePath": "C:\\Users\\JamesDawson\\AppData\\Local\\Temp\\ec91ea2e-8199-4f26-a6a3-8d97d34f7ea8\\Solutions\\Corvus.Testing.AzureFunctions.Xunit.Demo\\Corvus.Testing.AzureFunctions.Xunit.Demo.csproj",
+      "TargetFrameworks": [
+        {
+          "Name": ".NETCoreApp,Version=v3.1",
+          "Dependencies": [
+            {
+              "Name": "Microsoft.Extensions.Logging",
+              "ResolvedVersion": "3.1.16",
+              "LatestVersion": "3.1.17",
+              "UpgradeSeverity": "Patch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Corvus.Testing.AzureFunctions",
+      "FilePath": "C:\\Users\\JamesDawson\\AppData\\Local\\Temp\\ec91ea2e-8199-4f26-a6a3-8d97d34f7ea8\\Solutions\\Corvus.Testing.AzureFunctions\\Corvus.Testing.AzureFunctions.csproj",
+      "TargetFrameworks": [
+        {
+          "Name": ".NETStandard,Version=v2.0",
+          "Dependencies": [
+            {
+              "Name": "Microsoft.Extensions.Logging.Abstractions",
+              "ResolvedVersion": "3.1.16",
+              "LatestVersion": "3.1.17",
+              "UpgradeSeverity": "Patch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Corvus.Testing.AzureFunctions.SpecFlow.NUnit",
+      "FilePath": "C:\\Users\\JamesDawson\\AppData\\Local\\Temp\\ec91ea2e-8199-4f26-a6a3-8d97d34f7ea8\\Solutions\\Corvus.Testing.AzureFunctions.SpecFlow.NUnit\\Corvus.Testing.AzureFunctions.SpecFlow.NUnit.csproj",
+      "TargetFrameworks": [
+        {
+          "Name": ".NETCoreApp,Version=v3.1",
+          "Dependencies": [
+            {
+              "Name": "SpecFlow.NUnit.Runners",
+              "ResolvedVersion": "3.8.14",
+              "LatestVersion": "3.9.8",
+              "UpgradeSeverity": "Minor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Corvus.Testing.AzureFunctions.SpecFlow",
+      "FilePath": "C:\\Users\\JamesDawson\\AppData\\Local\\Temp\\ec91ea2e-8199-4f26-a6a3-8d97d34f7ea8\\Solutions\\Corvus.Testing.AzureFunctions.SpecFlow\\Corvus.Testing.AzureFunctions.SpecFlow.csproj",
+      "TargetFrameworks": [
+        {
+          "Name": ".NETStandard,Version=v2.0",
+          "Dependencies": [
+            {
+              "Name": "Microsoft.Extensions.Logging.Console",
+              "ResolvedVersion": "3.1.16",
+              "LatestVersion": "3.1.17",
+              "UpgradeSeverity": "Patch"
+            },
+            {
+              "Name": "SpecFlow",
+              "ResolvedVersion": "3.8.14",
+              "LatestVersion": "3.9.8",
+              "UpgradeSeverity": "Minor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Corvus.Testing.SpecFlow.NUnit",
+      "FilePath": "C:\\Users\\JamesDawson\\AppData\\Local\\Temp\\ec91ea2e-8199-4f26-a6a3-8d97d34f7ea8\\Solutions\\Corvus.Testing.SpecFlow.NUnit\\Corvus.Testing.SpecFlow.NUnit.csproj",
+      "TargetFrameworks": [
+        {
+          "Name": ".NETCoreApp,Version=v3.1",
+          "Dependencies": [
+            {
+              "Name": "SpecFlow.NUnit.Runners",
+              "ResolvedVersion": "3.8.14",
+              "LatestVersion": "3.9.8",
+              "UpgradeSeverity": "Minor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Corvus.Testing.SpecFlow",
+      "FilePath": "C:\\Users\\JamesDawson\\AppData\\Local\\Temp\\ec91ea2e-8199-4f26-a6a3-8d97d34f7ea8\\Solutions\\Corvus.Testing.SpecFlow\\Corvus.Testing.SpecFlow.csproj",
+      "TargetFrameworks": [
+        {
+          "Name": ".NETStandard,Version=v2.0",
+          "Dependencies": [
+            {
+              "Name": "SpecFlow",
+              "ResolvedVersion": "3.8.14",
+              "LatestVersion": "3.9.8",
+              "UpgradeSeverity": "Minor"
+            },
+            {
+              "Name": "Microsoft.Extensions.DependencyInjection",
+              "ResolvedVersion": "3.1.16",
+              "LatestVersion": "3.1.17",
+              "UpgradeSeverity": "Patch"
+            },
+            {
+              "Name": "Microsoft.Extensions.Configuration.Abstractions",
+              "ResolvedVersion": "3.1.16",
+              "LatestVersion": "3.1.17",
+              "UpgradeSeverity": "Patch"
+            },
+            {
+              "Name": "Microsoft.Extensions.DependencyInjection.Abstractions",
+              "ResolvedVersion": "3.1.16",
+              "LatestVersion": "3.1.17",
+              "UpgradeSeverity": "Patch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
